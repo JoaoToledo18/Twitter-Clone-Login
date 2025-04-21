@@ -1,0 +1,100 @@
+.fundo {
+    background-color: #00acee;
+}
+
+.logo {
+    width: 50%;  
+    height: auto;  
+    display: block;  
+    margin: 0 auto;  
+}
+
+
+
+nav {
+    background-color: white;
+}
+
+.fundoCont {
+    background-color: white;
+    border-radius: 2vh;
+    border: solid 1px black;
+}
+
+.fundoForm {
+    background-color: white;
+    border-radius: 2vh;
+    border: 1px solid black;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-size: 0.9rem;
+}
+
+.form-container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.fundoForm input[type="text"],
+.fundoForm input[type="email"],
+.fundoForm input[type="password"],
+.fundoForm input[type="date"] {
+    height: 30px;
+    font-size: 0.85rem;
+    padding: 4px 6px;
+}
+
+.fundoForm button {
+    padding: 6px;
+    font-size: 0.9rem;
+}
+
+.fundoForm h2 {
+    font-size: 1.3rem;
+    margin-bottom: 10px;
+}
+
+.tamanho-campo {
+    font-size: 0.85rem;
+    margin-bottom: 2px;
+}
+
+.fundoForm .col-3 {
+    padding: 0;
+}
+
+.fundoForm .logo {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 20px;
+}
+
+.fundoForm .row {
+    margin-bottom: 10px;
+}
+
+.fundoForm input[type="text"],
+.fundoForm input[type="email"],
+.fundoForm input[type="password"],
+.fundoForm input[type="date"] {
+    width: 100%;
+    height: 35px;
+    padding: 5px;
+    font-size: 0.85rem;
+}
+
+.fundoForm button {
+    width: 100%;
+    padding: 8px;
+    font-size: 1rem;
+}
+
+.fundoForm a {
+    font-size: 0.85rem;
+    color: #00acee;
+}
+
+.fundoForm a:hover {
+    text-decoration: underline;
+}
+

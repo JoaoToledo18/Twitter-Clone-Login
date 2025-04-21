@@ -1,0 +1,47 @@
+body {
+    background-color: #00acee;
+}
+
+.fundoForm {
+    background-color: white;
+    border-radius: 2vh;
+    padding: 2rem;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+input[type="password"] {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.5rem;
+    width: 100%;
+    font-size: 1rem;
+    margin-top: 0.25rem;
+}
+
+.tamanho-campo {
+    font-weight: bold;
+    margin-bottom: 0.25rem;
+}
+
+button[type="submit"] {
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+a {
+    color: #00acee;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.logo {
+    height: 80px;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
